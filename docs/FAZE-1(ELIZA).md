@@ -1,7 +1,3 @@
-# atividade_IA
-Trabalho de faculdade de inteligência artificial, onde será desenvolvido a IA 'Eliza' até os transformers
-
-
 # Fase 1: O Psicólogo de Terminal (ELIZA)
 
 Este documento detalha a implementação do chatbot ELIZA, a primeira fase do projeto "Da ELIZA aos Transformers: A Evolução do Processamento de Linguagem Natural". Esta fase explora os fundamentos dos sistemas de PLN baseados em regras, demonstrando como a ilusão de compreensão pode ser criada através de padrões textuais simples.
