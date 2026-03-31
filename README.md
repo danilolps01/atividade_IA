@@ -2,6 +2,10 @@
 
 Este repositório contém a entrega da atividade acadêmica "Da ELIZA aos Transformers: A Evolução do Processamento de Linguagem Natural em 15 Dias". 
 
+# Alunos:
+
+Danilo Lopes , Gladyson Rhuan
+
 ## Proposta e Objetivo do Projeto
 
 O objetivo principal desta atividade é compreender a transição de sistemas de regras rígidas baseados em símbolos para os modernos modelos estatísticos, neurais e baseados em atenção. 
